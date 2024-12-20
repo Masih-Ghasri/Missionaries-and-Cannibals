@@ -32,7 +32,6 @@ The game is played in the terminal. You will be prompted to enter the number of 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Masih-Ghasri/Missionaries-and-Cannibals.git
-   git clone https://gitlab.com/Ma_salsa/missionaries-and-cannibals.git
    cd missionaries-cannibals-game
    ```
 2. Run the game:
