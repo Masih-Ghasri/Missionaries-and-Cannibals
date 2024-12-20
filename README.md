@@ -40,15 +40,6 @@ The game is played in the terminal. You will be prompted to enter the number of 
    go run main.go
    ```
 
-## CI/CD Pipelines
-This repository includes CI/CD pipelines for both **GitHub Actions** and **GitLab CI/CD** to ensure code quality and automated testing.
-
-### GitHub Actions
-The GitHub Actions workflow (`.github/workflows/go.yml`) ensures that the Go code is linted and tested on every push and pull request.
-
-### GitLab CI/CD
-The `.gitlab-ci.yml` file runs the same set of tests and lints on GitLab repositories.
-
 ## Contributing
 We welcome contributions! Please follow these steps:
 1. Fork the repository.
